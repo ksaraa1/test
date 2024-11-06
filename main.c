@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
-	printf("Coucou\n");
+	printf("Hello\n");
+
+	return(0);
 }
 
 
